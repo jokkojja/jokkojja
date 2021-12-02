@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jokkojja
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning data preprocessing and make my first steps in ml
+- 🌱 I’m currently learning data preprocessing and make my first steps in ML
 
 <!---
 jokkojja/jokkojja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
