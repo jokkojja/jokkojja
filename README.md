@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jokkojja
+- 👋 Hi, I’m @jokkojja. My kaggle account : kaggle.com/jokkojja
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning data preprocessing and make my first steps in ML
 
